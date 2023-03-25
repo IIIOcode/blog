@@ -15,7 +15,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: username/repo-name:latest
+          tags: iiio/blog:latest
         env:
           DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
           DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
