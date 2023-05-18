@@ -51,7 +51,7 @@ on:
 env:
   PROJECT_ID: proyecto-asir-cgg # TODO: update Google Cloud project id
   GAR_LOCATION: us-central1 # TODO: update Artifact Registry location
-  SERVICE: my-service # TODO: update Cloud Run service name
+  SERVICE: my-service-00001-h55 # TODO: update Cloud Run service name
   REGION: us-central1 # TODO: update Cloud Run service region
 
 jobs:
