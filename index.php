@@ -47,7 +47,7 @@ if (isset($_POST['clear_completed'])) {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Aplicación de Notas de carlos</title>
+    <title>Aplicación de Notas de carlos FUNCIONAAAAAA</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
