@@ -52,7 +52,7 @@ if (isset($_POST['clear_completed'])) {
 </head>
 <body>
     <div class="container">
-        <h1>Aplicación de Notas CI/CD Modificada</h1>
+        <h1>Aplicación de Notas CI/CD De roberto</h1>
 
         <form method="POST" action="">
             <input type="text" name="task" placeholder="Escribe una nueva tarea" required>
